@@ -1,0 +1,5 @@
+{
+  "IsObtainDash": 1,
+  "IsObtainDoubleJump": 1,
+  "IsObtainWallSlide": 1
+}
